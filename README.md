@@ -13,4 +13,5 @@ Tech Stack
 - Room database
 - Glide
 - Calendar View
-![image](https://user-images.githubusercontent.com/103529519/204143094-9dbca64f-e18d-4a48-a3ce-12045f3aa604.png)
+
+![image](https://user-images.githubusercontent.com/103529519/204143130-1d710756-af7b-4983-b082-60c277232f77.png)
